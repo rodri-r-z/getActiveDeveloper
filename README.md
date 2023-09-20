@@ -67,5 +67,3 @@ On the discord server that has joined the bot, run the `/getactivedeveloper` com
 
 ![image](https://github.com/rodri-r-z/getActiveDeveloper/assets/141367232/77867933-65e6-4941-a3fc-cdee7352d8a1)
 
-![image](https://github.com/rodri-r-z/getActiveDeveloper/assets/141367232/a308bd5f-65b2-49a5-91df-946f75efc422)
-
