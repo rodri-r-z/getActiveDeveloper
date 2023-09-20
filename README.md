@@ -50,7 +50,7 @@ On _SCOPES_, click _bot_
 
 On _BOT PERMISSIONS_, click _Send Messages_ and then copy and paste the URL into a new tab
 
-![image](https://github.com/rodri-r-z/getActiveDeveloper/assets/141367232/2a12508c-a53c-414c-bbb2-9c70d85d1e9e)
+![image](https://github.com/rodri-r-z/getActiveDeveloper/assets/141367232/8ab41f63-50bc-4ba7-a1f3-0b62073be1bd)
 
 Select a server, accept terms of service and accept.
 
