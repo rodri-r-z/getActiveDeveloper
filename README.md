@@ -20,7 +20,7 @@ At the path you've clones the repository, open the terminal or CMD and run the f
 npm i
 ```
 
-3. **Get a Bot Toekn**
+3. **Get a Bot Token**
 
 Go to [Discord Developer](https://discord.com/developers/applications) and click on _New Application_
 
